@@ -1,0 +1,12 @@
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\bin\Debug\SchoLib.exe.config
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\obj\Debug\SchoLib.FrmHome.resources
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\obj\Debug\SchoLib.FrmLogin.resources
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\obj\Debug\SchoLib.FrmRegister.resources
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\obj\Debug\SchoLib.Resources.resources
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\obj\Debug\SchoLib.vbproj.GenerateResource.Cache
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\bin\Debug\SchoLib.exe
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\bin\Debug\SchoLib.pdb
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\bin\Debug\SchoLib.xml
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\obj\Debug\SchoLib.exe
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\obj\Debug\SchoLib.xml
+D:\Applications\Visual Studio Projects\College\SchoLib\SchoLib\obj\Debug\SchoLib.pdb
